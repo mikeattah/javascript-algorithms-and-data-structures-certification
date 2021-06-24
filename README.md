@@ -1,2 +1,9 @@
 # jadscertification
-Code for FCC JavaScript and Data Science Certification
+Code for freeCodeCamp JavaScript Algorithms and Data Structures Certification
+
+# Main files included are:
+- Caesar's Cipher
+- Cash Register
+- Palindrome Checker
+- Roman Numeral Converter
+- Telephone Number Validator
