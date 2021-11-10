@@ -1,12 +1,13 @@
 # FCC JavaScript Projects
 
-## JavaScript Algorithms and Data Structures Certification
+This repo contains all code challenges completed for [freeCodeCamp.org](https://www.freecodecamp.org/)'s JavaScript Algorithms and Data Structures Certification.
 
-### Files included are:
+## Challenges
+
 - Caesar's Cipher
 - Cash Register
 - Palindrome Checker
 - Roman Numeral Converter
 - Telephone Number Validator
 
-You can view them on Free Code Camp: [https://www.freecodecamp.org/mikeattah](https://www.freecodecamp.org/mikeattah).
+You can view them on [freeCodeCamp.org](https://www.freecodecamp.org/mikeattah).
